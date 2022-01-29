@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.geekya215.intellijkanagawatheme.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.geekya215.intellijkanagawatheme.MyBundle
 
 class MyProjectService(project: Project) {
 
