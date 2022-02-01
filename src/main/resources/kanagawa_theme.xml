@@ -1,7 +1,16 @@
 <scheme name="Kanagawa" version="142" parent_scheme="Darcula">
     <colors>
+        <option name="ADDED_LINES_COLOR" value="76946a" />
         <option name="CARET_ROW_COLOR" value="363646" />
+        <option name="DELETED_LINES_COLOR" value="c34043" />
+        <option name="GUTTER_BACKGROUND" value="1f1f28" />
+        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="76946a" />
+        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="c34043" />
+        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="dca561" />
         <option name="LINE_NUMBERS_COLOR" value="54546d" />
+        <option name="MODIFIED_LINES_COLOR" value="dca561" />
+        <option name="SEPARATOR_BELOW_COLOR" value="21252b" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="dca561" />
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
