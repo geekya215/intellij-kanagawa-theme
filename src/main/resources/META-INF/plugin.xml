@@ -9,6 +9,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.geekya215.intellijkanagawatheme.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.geekya215.intellijkanagawatheme.services.MyProjectService"/>
+        <themeProvider id="c447c35f-1882-4459-98e6-abfaa424e5d9" path="/kanagawa_theme.theme.json"/>
     </extensions>
 
     <applicationListeners>
