@@ -4,6 +4,17 @@
         <option name="LINE_NUMBERS_COLOR" value="54546d" />
     </colors>
     <attributes>
+        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="7e9cd8" />
+            </value>
+        </option>
+        <option name="ANNOTATION_NAME_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="7e9cd8" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
                 <option name="FOREGROUND" value="727169" />
@@ -140,11 +151,34 @@
                 <option name="FOREGROUND" value="ffa066" />
             </value>
         </option>
+        <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="ffa066" />
+            </value>
+        </option>
+        <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="ffa066" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="STATIC_FINAL_FIELD_IMPORTED_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="ffa066" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="dcd7ba" />
                 <option name="BACKGROUND" value="1f1f28" />
                 <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+        <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="7aa89f" />
             </value>
         </option>
     </attributes>
